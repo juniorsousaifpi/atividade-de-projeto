@@ -1,0 +1,9 @@
+.topo{
+ text-align: center;
+ 
+}
+
+.meio{
+    display: flex;
+    justify-content: space-around;
+}
