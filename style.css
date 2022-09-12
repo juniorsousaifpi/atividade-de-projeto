@@ -1,9 +1,21 @@
 .topo{
  text-align: center;
- 
+  font-size: 24px ;
 }
 
 .meio{
     display: flex;
     justify-content: space-around;
+    
+   
 }
+
+.vermelho{
+    color: red;
+    text-align: right;
+}
+
+.negrito{
+    font-weight: bold;
+}
+    
