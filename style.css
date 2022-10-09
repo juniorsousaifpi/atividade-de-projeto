@@ -93,6 +93,7 @@ body ul li a {
     flex-wrap: wrap;
     gap: 1rem;
     padding: 0 17px;
+
 }
 
 .vendas>div {
@@ -117,4 +118,3 @@ text-align: center;
     text-align:center
 }
     
-
