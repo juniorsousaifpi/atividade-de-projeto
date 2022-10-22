@@ -124,3 +124,38 @@ text-align: center;
    
 }
 
+.wape{
+    text-align: center;
+}
+
+.zapi {
+    border: 1px solid red;
+    width: 25%;
+    background-color: orangered;
+    text-align: center;
+ }
+
+ .zapi img{
+    width: 10%
+
+ }
+
+ .zapi li{
+     list-style: none;
+
+ }
+
+.braw{
+    border: 1px solid red;
+    width: 25%;
+    text-align: center;
+}
+
+.tropa{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 0 17px;
+    flex-direction: column;
+}
