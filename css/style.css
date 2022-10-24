@@ -120,6 +120,7 @@ text-align: center;
 
 
 .roda img{
+    max-height: 100%;
     width: 75%;
    
 }
@@ -129,9 +130,9 @@ text-align: center;
 }
 
 .zapi {
-    border: 1px solid red;
+    border: 1px solid black;
     width: 25%;
-    background-color: orangered;
+    background-color: white;
     text-align: center;
  }
 
@@ -146,7 +147,7 @@ text-align: center;
  }
 
 .braw{
-    border: 1px solid red;
+    border: 1px solid black;
     width: 25%;
     text-align: center;
 }
@@ -158,4 +159,9 @@ text-align: center;
     gap: 1rem;
     padding: 0 17px;
     flex-direction: column;
+}
+
+.Azul img{
+    max-height: 100%;
+    width: 90%;
 }
